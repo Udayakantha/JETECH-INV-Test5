@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "PresentationLayer\PresentationLayer.csproj", "{2A4FDB8D-FD36-4089-904F-CD6DC2C3FD03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{6371AD67-4748-440B-A225-0CA01EB137A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLaye\BusinessLayer.csproj", "{C458F39D-7B6D-4D35-8EA9-6890620676D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4FDB8D-FD36-4089-904F-CD6DC2C3FD03}.Debug|x86.ActiveCfg = Debug|x86
+		{2A4FDB8D-FD36-4089-904F-CD6DC2C3FD03}.Debug|x86.Build.0 = Debug|x86
+		{2A4FDB8D-FD36-4089-904F-CD6DC2C3FD03}.Release|x86.ActiveCfg = Release|x86
+		{2A4FDB8D-FD36-4089-904F-CD6DC2C3FD03}.Release|x86.Build.0 = Release|x86
+		{6371AD67-4748-440B-A225-0CA01EB137A0}.Debug|x86.ActiveCfg = Debug|x86
+		{6371AD67-4748-440B-A225-0CA01EB137A0}.Debug|x86.Build.0 = Debug|x86
+		{6371AD67-4748-440B-A225-0CA01EB137A0}.Release|x86.ActiveCfg = Release|x86
+		{6371AD67-4748-440B-A225-0CA01EB137A0}.Release|x86.Build.0 = Release|x86
+		{C458F39D-7B6D-4D35-8EA9-6890620676D0}.Debug|x86.ActiveCfg = Debug|x86
+		{C458F39D-7B6D-4D35-8EA9-6890620676D0}.Debug|x86.Build.0 = Debug|x86
+		{C458F39D-7B6D-4D35-8EA9-6890620676D0}.Release|x86.ActiveCfg = Release|x86
+		{C458F39D-7B6D-4D35-8EA9-6890620676D0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
